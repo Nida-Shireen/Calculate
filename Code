@@ -1,0 +1,10 @@
+# Fill this in with an expression that calculates how many tiles are needed.
+a = 9*7
+b = 5*7
+c = a+b
+print(c)
+
+# Fill this in with an expression that calculates how many tiles will be left over.
+d = 17*6
+f = d-c
+print(f)
